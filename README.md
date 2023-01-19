@@ -4,7 +4,7 @@
 <h2>Клиентская часть</h2>
 Клиент находится в директории (frontend) и реализована с помощью React JS
 Для запуска необходимо выполнить в cmd:<p>
-
+ 
 <code>cd {Path to directory}/frontend
 npm start</code>
 
